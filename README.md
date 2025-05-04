@@ -115,3 +115,8 @@ Your mission is to travel through perilous places, defeat enemies, and collect t
   - **Climb Ladders**: [Ladder - Pixabay](https://pixabay.com/vi/sound-effects/ladder-82581/)
   - **Opening Chests**: [90s Game UI - Pixabay](https://pixabay.com/vi/sound-effects/90s-game-ui-6-185099/)
   - **Game Win**: [8-Bit Victory Sound - Pixabay](https://pixabay.com/vi/sound-effects/8-bit-victory-sound-101319/)
+ 
+## Short Demo Video: ##
+
+[![Aerin's Quest DEMO](https://img.youtube.com/vi/FjojeRYXjcQ/maxresdefault.jpg)](https://youtu.be/FjojeRYXjcQ)  
+*Click to watch the short demo of my first game project.*
